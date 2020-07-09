@@ -1,16 +1,14 @@
-### Hi there 👋
+## What's up Σ ◕ ◡ ◕
 
-<!--
-**gasampaiosouza/gasampaiosouza** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<em>I'm Gabriel, a **Front-end Developer** and **Website Designer**, passionate about **Javascript** :satisfied:.</em>
 
-Here are some ideas to get you started:
+- 🕺 <em>I’m currently working fulltime on **React Apps** :snowflake:;</em>
+- 📑 <em>I’m currently learning some **React Libraries**;</em>
+- 💬 <em>Ask me about **memes**, **games** and anything about **music** :musical_note:;</em>
+- 👷 <em>I work with **React**, **Sass** and **Typescript** :blue_book:;</em>
+> <em>**Fun Fact**: i love green apple :green_apple:;</em>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🌟 <em>Thank you!</em>
+
+[![Linkedin Badge](https://img.shields.io/badge/-💙-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gasampaiosouza/)](https://www.linkedin.com/in/gasampaiosouza/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gasampaiosouza@gmail.com)](mailto:gasampaiosouza@gmail.com)
