@@ -8,7 +8,7 @@
 - 👷 <em>I work with **React**, **Sass** and **Typescript** :blue_book:;</em>
 > <em>**Fun Fact**: i love green apple :green_apple:;</em>
 
-#### 🌟 <em>Thank you!</em>
+🌟 **<em>Thank you!</em>**
 
 [![Linkedin Badge](https://img.shields.io/badge/-💙-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gasampaiosouza/)](https://www.linkedin.com/in/gasampaiosouza/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gasampaiosouza@gmail.com)](mailto:gasampaiosouza@gmail.com)
