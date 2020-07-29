@@ -12,3 +12,5 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-💙-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gasampaiosouza/)](https://www.linkedin.com/in/gasampaiosouza/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gasampaiosouza@gmail.com)](mailto:gasampaiosouza@gmail.com)
+
+[![my github stats](https://github-readme-stats.vercel.app/api?username=gasampaiosouza)](https://github.com/gasampaiosouza)
