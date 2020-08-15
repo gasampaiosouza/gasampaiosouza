@@ -1,5 +1,8 @@
 ## What's up Σ ◕ ◡ ◕
 
+[![Linkedin Badge](https://img.shields.io/badge/-💙-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gasampaiosouza/)](https://www.linkedin.com/in/gasampaiosouza/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gasampaiosouza@gmail.com)](mailto:gasampaiosouza@gmail.com)
+
 <em>I'm Gabriel, a **Front-end Developer** and **Website Designer**, passionate about **Javascript** :satisfied:.</em>
 
 - 🕺 <em>I’m currently working fulltime on **React Apps** :snowflake:;</em>
@@ -9,20 +12,17 @@
 - 🎶 <em>Hobbies?? i play piano since *2016*, does it count?;</em>
 > <em>**Fun Fact**: i love green apple :green_apple:;</em>
 
-🌟 **<em>Thank you!</em>**
-
-[![Linkedin Badge](https://img.shields.io/badge/-💙-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gasampaiosouza/)](https://www.linkedin.com/in/gasampaiosouza/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gasampaiosouza@gmail.com)](mailto:gasampaiosouza@gmail.com)
-
 <details>
-  <summary>:round_pushpin: my github stats</summary>
+  <summary> 📍⠀my github stats</summary>
   <br />
   
   [![my github stats](https://github-readme-stats.vercel.app/api?username=gasampaiosouza)](https://github.com/gasampaiosouza)
 </details>
 
 <details>
-  <summary>:round_pushpin: skills i think i'm good</summary>
+  <summary>
+    <img width="25" src="https://camo.githubusercontent.com/215bc399cacfceb89cec99c0b10e594c2806a8bb/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383331353032342f383832332f68797065726b697474792e6769663f31353838333135303234" /> skills that i think i'm good
+  </summary>
   <br />
   
   <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
@@ -35,3 +35,5 @@
   <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" />
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
 </details>
+
+### Thank you for passing by! <img width="50" src="https://camo.githubusercontent.com/e3c67bd737a23a40375bdd1294f18474b01b0fbe/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966" />
