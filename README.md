@@ -3,12 +3,13 @@
 [![Linkedin Badge](https://img.shields.io/badge/-💙-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gasampaiosouza/)](https://www.linkedin.com/in/gasampaiosouza/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gasampaiosouza@gmail.com)](mailto:gasampaiosouza@gmail.com)
 
-<em>I'm Gabriel, a **Front-end Developer** and **Website Designer**, passionate about **Javascript** :satisfied:.</em>
+<em>Hi! 🖐️</em> <br />
+<em>i'm a **frontend developer** who is passionate about coding :satisfied:.</em>
 
-- 🕺 <em>I’m currently working fulltime on **React Apps** :snowflake:;</em>
-- 📑 <em>I’m currently learning some **React Libraries**;</em>
-- 💬 <em>Ask me about **memes**, **games** and anything about **music** :musical_note:;</em>
-- 👷 <em>I work with **React**, **Sass** and **Typescript** :blue_book:;</em>
+- 🕺 <em>currently working fulltime on **React applications** :snowflake:;</em>
+- 📑 <em>currently learning **NextJS** and **Node**;</em>
+- 💬 <em>You can ask me about **memes**, **games** and anything about **music** :musical_note:;</em>
+- 👷 <em>I work mostly with **React**, **Sass** and **Typescript** :blue_book:;</em>
 - 🎶 <em>Hobbies?? i play piano since *2016*, does it count?;</em>
 > <em>**Fun Fact**: i love green apple :green_apple:;</em>
 
@@ -32,7 +33,6 @@
   <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
   <br /> <br />
   <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/vuejs%20-%2335495e.svg?&style=for-the-badge&logo=vue.js&logoColor=%234FC08D" />
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
 </details>
 
