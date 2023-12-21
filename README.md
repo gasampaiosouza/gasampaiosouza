@@ -1,39 +1,61 @@
-## What's up Σ ◕ ◡ ◕
+# Hey there! <img src="https://raw.githubusercontent.com/gasampaiosouza/gasampaiosouza/master/waving-hand.gif" width="30"> <br />
 
-[![Linkedin Badge](https://img.shields.io/badge/-💙-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gasampaiosouza/)](https://www.linkedin.com/in/gasampaiosouza/)
-[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gasampaiosouza@gmail.com)](mailto:gasampaiosouza@gmail.com)
+[![Github Badge](https://img.shields.io/badge/gasampaiosouza-100000?style=flat-square&logo=github&logoColor=white&link=https://www.github.com/gasampaiosouza/)](https://www.github.com/gasampaiosouza/)
+[![Linkedin Badge](https://img.shields.io/badge/gasampaiosouza-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gasampaiosouza/)](https://www.linkedin.com/in/gasampaiosouza/)
+[![Gmail Badge](https://img.shields.io/badge/gasampaio.souza@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:gasampaiosouza@gmail.com)](mailto:gasampaiosouza@gmail.com)
 
-<em>Hi! 🖐️</em> <br />
-<em>i'm a **frontend developer** who is passionate about coding :satisfied:.</em>
+```typescript
+function frontend_developer() {
+  const NAME = 'Gabriel Sampaio'
+  const AGE = new Date().getFullYear() - 2004
+  const CURRENT_ROLE = null
 
-- 🕺 <em>currently working fulltime on **React applications** :snowflake:;</em>
-- 📑 <em>currently learning **NextJS** and **Node**;</em>
-- 💬 <em>You can ask me about **memes**, **games** and anything about **music** :musical_note:;</em>
-- 👷 <em>I work mostly with **React**, **Sass** and **Typescript** :blue_book:;</em>
-- 🎶 <em>Hobbies?? i play piano since *2016*, does it count?;</em>
-> <em>**Fun Fact**: i love green apple :green_apple:;</em>
+  const HOBBIES = 'Very good at trying to play piano and achieving platinum status in games'
 
-<details>
-  <summary> 📍⠀my github stats</summary>
-  <br />
-  
-  [![my github stats](https://github-readme-stats.vercel.app/api?username=gasampaiosouza)](https://github.com/gasampaiosouza)
-</details>
+  return { NAME, AGE, HOBBIES, CURRENT_ROLE }
+}
 
-<details>
-  <summary>
-    <img width="25" src="https://camo.githubusercontent.com/215bc399cacfceb89cec99c0b10e594c2806a8bb/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313538383331353032342f383832332f68797065726b697474792e6769663f31353838333135303234" /> skills that i think i'm good
-  </summary>
-  <br />
-  
-  <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img src="https://img.shields.io/badge/typescript%20-%23007ACC.svg?&style=for-the-badge&logo=typescript&logoColor=white" />
-  <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" />
-  <br /> <br />
-  <img src="https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white" />
-</details>
+const me = frontend_developer()
 
-### Thank you for passing by! <img width="50" src="https://camo.githubusercontent.com/e3c67bd737a23a40375bdd1294f18474b01b0fbe/68747470733a2f2f63756c746f667468657061727479706172726f742e636f6d2f706172726f74732f68642f3630667073706172726f742e676966" />
+console.log(me)
+```
+
+## ✨ Technologies
+
+**Frontend stack:**
+
+![bla](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![bla](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![bla](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
+![bla](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![bla](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![bla](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![bla](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+
+![bla](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![bla](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![bla](https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white)
+![bla](https://img.shields.io/badge/Material--UI-0081CB?style=for-the-badge&logo=material-ui&logoColor=white)
+
+**Backend stack:**
+
+![bla](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
+![bla](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![bla](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+
+**Other:**
+
+![bla](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
+![bla](https://img.shields.io/badge/Bitbucket-0747a6?style=for-the-badge&logo=bitbucket&logoColor=white)
+![bla](https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white)
+![bla](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
+![bla](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
+
+---
+
+![Github Stats](https://github-readme-stats.vercel.app/api?username=gasampaiosouza&count_private=true&show_icons=true&include_all_commits=true)
+
+## 📖 Highlighted projects
+
+![bla](https://github-readme-stats.vercel.app/api/pin/?username=gasampaiosouza&repo=econverse-site&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)
+![bla](https://github-readme-stats.vercel.app/api/pin/?username=gasampaiosouza&repo=canvance&show_icons=true&line_height=27&title_color=6aa6f8&text_color=8a919a&icon_color=6aa6f8&bg_color=22272e)
