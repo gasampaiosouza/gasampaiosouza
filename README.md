@@ -51,8 +51,6 @@ console.log(me)
 ![bla](https://img.shields.io/badge/-LeetCode-FFA116?style=for-the-badge&logo=LeetCode&logoColor=black)
 ![bla](https://img.shields.io/badge/json%20web%20tokens-323330?style=for-the-badge&logo=json-web-tokens&logoColor=pink)
 
----
-
 ![Github Stats](https://github-readme-stats.vercel.app/api?username=gasampaiosouza&count_private=true&show_icons=true&include_all_commits=true)
 
 ## 📖 Highlighted projects
